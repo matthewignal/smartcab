@@ -2,6 +2,10 @@
 # Reinforcement Learning
 ## Project: Train a Smartcab How to Drive
 
+### Summary
+
+Virtual Smartcab agent learns not to perform illegal actions and moves in the direction of the destination. After just a few dozen trials, the smartcab avoids incurring penalties while reaching the destination in the minimum possible time. 
+
 ### Install
 
 This project requires **Python 2.7** with the [pygame](https://www.pygame.org/wiki/GettingStarted
